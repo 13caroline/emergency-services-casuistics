@@ -1,4 +1,4 @@
-# Computer-Applications-in-Biomedicine
+# AIBM-Urgencias
 
 Projeto sobre a Casuística do Serviço de Urgência de um hospital nacional, para a Unidade Curricular de Aplicações Informáticas na Biomedicina.
 
@@ -25,3 +25,7 @@ Novo schema criado para import -> dados
 | toCSV.sql            | Migração dos dados da área de retenção para ficheiros csv                            |
 | retencaoToDW.sql     | Atualização do Data Warehouse com os dados da área de retenção                       | 
 | updateDW.sql         | Script para atualização do Data Warehouse e eliminação dos dados da área de retenção |
+
+## Entrega do Projeto
+
+7 de janeiro de 2021
